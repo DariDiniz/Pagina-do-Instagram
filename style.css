@@ -113,7 +113,7 @@ body {
     padding: 1rem;
 }
 
-.app-download{
+.app-download {
     height: 3rem;
     width: 10rem;
     background-size: cover;
@@ -151,6 +151,7 @@ body {
     .instagram-continue {
         width: 100%;
     }
+
     .group {
         border: 1px solid transparent;
     }
